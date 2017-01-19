@@ -1,5 +1,13 @@
 ## Roman Numeral Converter
 
+#### _Converts numbers into roman numerals_, 01/19/2017_
+
+#### By _**Sarah Leahy, Matt Kelley**_
+
+## Description
+
+_This converter will take any number between 1-3,999 and convert it into Roman numerals._
+
 # Specs
 
 | Behavior | Input Example | Output Example |
@@ -16,3 +24,22 @@
 |Can not count above 3,999 | 4000 | Please pick a number 3,999 or lower|
 |Can not process words, or letters | hello | Please enter a number|
 |Can not process negative numbers | -5 | Please enter a positive number|
+
+## Setup/Installation Requirements
+
+* _Clone Roman-numerals repository from git hub_
+* _open in browser_
+
+## Support and contact details
+
+_Please contact Sarah Leahy or Matt Kelley with any questions or suggestions._
+
+## Technologies Used
+
+_JavaScript, jQuery, HTML, CSS_
+
+### License
+
+*Licensed under the MIT license*
+
+Copyright (c) 2017 **_Sarah Leahy, Matt Kelley_**
